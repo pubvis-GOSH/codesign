@@ -1,2 +1,2 @@
-# young-participant-space
+# Codesign
 A place to discuss and share ideas for the project
